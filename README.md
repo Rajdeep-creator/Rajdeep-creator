@@ -8,7 +8,8 @@ Here are some of my key strengths:
 * Java ☕ 
 * JavaScript 💻  
 * SQL 📊
-* HTML/CSS 🎨 
+* HTML/CSS 🎨
+* React js
 
 **Technologies:**
 * React ⚛️  
